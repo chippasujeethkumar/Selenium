@@ -2,4 +2,7 @@ Basic codes:
 
 	Sytem.setproperty("webdriver.chrome.driver","path of .exe file");
 	WebDriver driver=new ChromeDriver();
+	System.setproperty("webdriver.ie.driver","path of .exe file");
+	WebDriver driver=new FireFoxDriver();
+	
 	
